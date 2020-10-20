@@ -1,4 +1,4 @@
-# This for our exam
+# This is for our exam
 
 This simple website was made using PHP.
 
