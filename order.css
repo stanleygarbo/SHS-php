@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+}
+body{
+    background:#1c1b29;
+    color: #ddd;
+}
+
+section{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section .order-info{
+    width: 350px;
+    padding:30px;
+    background:#292841;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+}
