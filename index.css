@@ -7,14 +7,14 @@ body{
     background:#1c1b29;
 }
 section{
-    min-height: 100vh;
+    min-height: 90vh;
     max-width: 380px;
     margin: 0 auto;
     display: flex;
     align-items: center;
     position: relative;
     flex-direction: column;
-    padding:0px 20px;
+    padding:22px 20px;
 }
 
 section .menu-title{
@@ -82,7 +82,6 @@ form button{
 
 footer{
     color:#fff;
-    position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
